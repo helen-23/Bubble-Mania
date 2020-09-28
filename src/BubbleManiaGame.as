@@ -119,7 +119,6 @@ package  {
 				randomBubble.destroy();
 				removeChild(myText)
 				removeChild(myText2)
-				removeChild(myText3)
 				timer.removeEventListener(TimerEvent.TIMER, timerListener)
 			}
 			return clock
