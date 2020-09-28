@@ -103,7 +103,7 @@ package  {
 			myText.height = 50;
 			myText.x = 50;
 			myText.y = 125;
-			myText.textColor = 0xFFFFFF
+			myText.textColor = 0x000000
 			
 			if (clock <= 0){
 				for (var u:int = 0; u < 15; u++) {
